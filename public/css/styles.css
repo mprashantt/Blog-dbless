@@ -33,3 +33,15 @@
 	font-size: 12px;
   color: #fff;
 }
+.footer-link{
+
+  color: yellow;
+}
+.footer-link:hover{
+
+  color: white;
+}
+.footer-link:link{
+  text-decoration: none;
+
+}
